@@ -1,0 +1,7 @@
+site_name: Reproduction
+docs_dir: docs
+theme:
+  name: material
+nav:
+  - Foo: foo.md
+  - Bar: bar.md
