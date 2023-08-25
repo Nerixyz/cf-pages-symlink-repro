@@ -4,4 +4,4 @@ theme:
   name: material
 nav:
   - Foo: foo.md
-  #- Bar: bar.md
+  - Bar: bar.md
