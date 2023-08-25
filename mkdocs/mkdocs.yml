@@ -5,3 +5,4 @@ theme:
 nav:
   - Foo: foo.md
   - Bar: bar.md
+  - Baz: baz.md
